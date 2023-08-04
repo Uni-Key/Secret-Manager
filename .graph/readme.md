@@ -3,3 +3,9 @@ sch: https://www.google.com/search?q=secret+manager example: https://cloud.googl
 
 # Guide:
 - https://www.beyondtrust.com/resources/glossary/secrets-management
+
+# Open Source:
+sch: https://www.google.com/search?q=open+source+secret+manager
+
+# Hashicorp Vault
+Home: https://www.vaultproject.io/
